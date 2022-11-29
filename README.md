@@ -1,10 +1,10 @@
 # Practical Data Science at Data Science Retreat 
-In this class, we will use [streamlit](https://docs.streamlit.io/) to make a front-end application for interaction with a deployed machine learning model. We will also learn how to deploy it using streamlit cloud.
+In this small project, I used [streamlit](https://docs.streamlit.io/) to make a front-end application for interaction with a deployed machine learning model. I also deployed it using streamlit cloud.
 
-The application we will make will be to predict customer churn at a telecommunications company, using this [Telco customer churn data](https://www.kaggle.com/code/mechatronixs/telco-churn-prediction-feature-engineering-eda/data) from kaggle.
+The application is a simple model to predict customer churn at a telecommunications company, using a dataset of [customer churn data](https://www.kaggle.com/code/mechatronixs/telco-churn-prediction-feature-engineering-eda/data) from Kaggle.
 
-In the end, we will have an application that looks like this:
+In the end, the application looks like this and allows for manual introduction of customer data:
 
 <img src="./images/app_screenshot_5.png" width="200"/>.
 
-As well as a live, functioning app, like the one seen [here](https://rachelkberryman-churn-predictor-prediction-streamlit-app-coqysw.streamlitapp.com/).
+Thanks to [Rachel Berryman](https://github.com/rachelkberryman)!
